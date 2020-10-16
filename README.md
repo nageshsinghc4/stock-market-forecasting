@@ -11,7 +11,8 @@ The dataset can be downloaded from [here](https://github.com/nageshsinghc4/stock
 The data shows the stock price of Altaba Inc from 1996–04–12 till 2017–11–10. The goal is to train an ARIMA model with optimal parameters that will forecast the closing price of the stocks on the test data.
 
 Results:
+
 ![Predictions](https://github.com/nageshsinghc4/stock-market-forecasting/blob/master/Screenshot%202020-10-16%20at%2011.26.44%20AM.png)
 
-Please check this article to know everything about it.
-https://www.theaidream.com/post/stock-market-forecasting-using-time-series-analysis
+
+Please check this article to know everything about it. https://www.theaidream.com/post/stock-market-forecasting-using-time-series-analysis
