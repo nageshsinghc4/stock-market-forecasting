@@ -15,4 +15,4 @@ Results:
 ![Predictions](https://github.com/nageshsinghc4/stock-market-forecasting/blob/master/Screenshot%202020-10-16%20at%2011.26.44%20AM.png)
 
 
-Please check this article to know everything about it. https://www.theaidream.com/post/stock-market-forecasting-using-time-series-analysis
+Please check out [theaidream.com](https://www.theaidream.com/post/stock-market-forecasting-using-time-series-analysis) to understand step by step approach.
